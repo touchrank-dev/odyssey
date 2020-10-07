@@ -307,7 +307,7 @@
         </item>
     </style>
 
-    <style name="AppTheme" parent="Theme.MaterialComponents">
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
         <item name="android:alertDialogTheme">@style/AppTheme.Dialog</item>
         <item name="android:dialogTheme">@style/AppTheme.Dialog</item>
         <item name="alertDialogTheme">@style/AppTheme.Dialog</item>
